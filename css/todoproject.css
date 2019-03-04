@@ -38,7 +38,7 @@ section {
 
 div {
 	width: 30%;
-	min-height: 400px;
+	min-width: 400px;
 	margin: 10px 0;
 	position: relative;
 }
