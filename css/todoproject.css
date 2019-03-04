@@ -41,6 +41,7 @@ div {
 	min-width: 400px;
 	margin: 10px 0;
 	position: relative;
+	margin-bottom: 1.5em;
 }
 
 h2 {
@@ -85,6 +86,7 @@ span {
 .todoInput {
 	position: relative;
 	width: 50%;
+	min-width: 300px;
 	margin-right: auto;
 	margin-left: auto;
 	margin-top: 1em;
