@@ -46,9 +46,10 @@ div {
 
 h2 {
 	background-color: #fff;
-	padding: 4px 0.5em;
+	padding: 4px 1.5em;
 	position: relative;
 	text-align: center;
+	overflow: hidden;
 }
 
 span {
